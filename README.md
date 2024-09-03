@@ -107,10 +107,14 @@ This is the collection of ongoing projects I'm currently working on.
 ## Roadmap
 
 - [&check;] Set up initial SvelteKit project
-  - [] Include TailwindCSS
-  - [] Include UI Library (Shadcn-svelte or daisyUI)
-  - [] Include a Icon library most likely unplugin-icons
+  - [&check;] Include TailwindCSS
+  - [&check;] Include UI Library (Shadcn-svelte or daisyUI)
+  - [&check;] Include a Icon library most likely unplugin-icons
 - [] Create Responsive Navigation
+  - [] Create two main Nav Links
+  - [] Create Settings component
+  - [] Create Clock component
+  - [] Install and use ModeWatcher for light/dark mode & maybe themes
 - [] Create and style the Home Hero section.
 - [] Create and style the About page.
 - [] Create and style the Experience page.
