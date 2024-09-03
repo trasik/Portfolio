@@ -12,6 +12,7 @@
 		"format": "prettier --write ."
 	},
 	"devDependencies": {
+		"@iconify-json/ic": "^1.1.18",
 		"@sveltejs/adapter-auto": "^3.0.0",
 		"@sveltejs/kit": "^2.0.0",
 		"@sveltejs/vite-plugin-svelte": "^3.0.0",
@@ -34,7 +35,10 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"bits-ui": "^0.21.13",
 		"clsx": "^2.1.1",
+		"lucide-svelte": "^0.438.0",
+		"mode-watcher": "^0.4.1",
 		"tailwind-merge": "^2.5.2",
 		"tailwind-variants": "^0.2.1"
 	}
