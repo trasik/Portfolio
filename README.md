@@ -106,7 +106,7 @@ This is the collection of ongoing projects I'm currently working on.
 
 ## Roadmap
 
-- [] Set up initial SvelteKit project
+- [&check;] Set up initial SvelteKit project
   - [] Include TailwindCSS
   - [] Include UI Library (Shadcn-svelte or daisyUI)
   - [] Include a Icon library most likely unplugin-icons
