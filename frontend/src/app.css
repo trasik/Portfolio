@@ -21,15 +21,6 @@
 		--border: 220 13% 91%;
 		--input: 220 13% 91%;
 
-		--primary: 220.9 39.3% 11%;
-		--primary-foreground: 210 20% 98%;
-
-		--secondary: 220 14.3% 95.9%;
-		--secondary-foreground: 220.9 39.3% 11%;
-
-		--accent: 220 14.3% 95.9%;
-		--accent-foreground: 220.9 39.3% 11%;
-
 		--destructive: 0 72.2% 50.6%;
 		--destructive-foreground: 210 20% 98%;
 
@@ -54,19 +45,76 @@
 		--border: 215 27.9% 16.9%;
 		--input: 215 27.9% 16.9%;
 
-		--primary: 210 20% 98%;
-		--primary-foreground: 220.9 39.3% 11%;
-
-		--secondary: 215 27.9% 16.9%;
-		--secondary-foreground: 210 20% 98%;
-
-		--accent: 215 27.9% 16.9%;
-		--accent-foreground: 210 20% 98%;
-
 		--destructive: 0 62.8% 30.6%;
 		--destructive-foreground: 210 20% 98%;
 
 		--ring: 216 12.2% 83.9%;
+	}
+
+	[data-theme='winter'] {
+		--primary: 215 100% 50%;
+		--primary-foreground: 210 20% 98%;
+
+		--secondary: 247 47% 43%;
+		--secondary-foreground: 210 20% 98%;
+
+		--accent: 215 100% 50%;
+		--accent-foreground: 210 20% 98%;
+	}
+
+	[data-theme='cmyk'] {
+		--primary: 203 83% 60%;
+		--primary-foreground: 210 20% 98%;
+
+		--secondary: 335 78% 60%;
+		--secondary-foreground: 210 20% 98%;
+
+		--accent: 203 83% 60%;
+		--accent-foreground: 210 20% 98%;
+	}
+
+	[data-theme='cupcake'] {
+		--primary: 183 47% 59%;
+		--primary-foreground: 210 20% 98%;
+
+		--secondary: 338 71% 78%;
+		--secondary-foreground: 210 20% 98%;
+
+		--accent: 183 47% 59%;
+		--accent-foreground: 210 20% 98%;
+	}
+
+	[data-theme='night'] {
+		--primary: 198 93% 60%;
+		--primary-foreground: 210 20% 98%;
+
+		--secondary: 234 89% 74%;
+		--secondary-foreground: 210 20% 98%;
+
+		--accent: 198 93% 60%;
+		--accent-foreground: 210 20% 98%;
+	}
+
+	[data-theme='dracula'] {
+		--primary: 326 100% 74%;
+		--primary-foreground: 210 20% 98%;
+
+		--secondary: 265 89% 78%;
+		--secondary-foreground: 210 20% 98%;
+
+		--accent: 326 100% 74%;
+		--accent-foreground: 210 20% 98%;
+	}
+
+	[data-theme='sunset'] {
+		--primary: 16 100% 68%;
+		--primary-foreground: 210 20% 98%;
+
+		--secondary: 341 97% 71%;
+		--secondary-foreground: 210 20% 98%;
+
+		--accent: 16 100% 68%;
+		--accent-foreground: 210 20% 98%;
 	}
 }
 

@@ -171,7 +171,7 @@ Use this space to list resources you find helpful and would like to give credit 
 - [SvelteKit Docs](https://kit.svelte.dev/docs/introduction)
 - [Img Shields](https://shields.io)
 - [Iconify](https://iconify.design/)
-- Backgrounds: [Diane Picchiottino](https://unsplash.com/@diane_soko), [Ciaran O'Brien](https://unsplash.com/@icidius), [Buzz Andersen](https://unsplash.com/@ldandersen)
+- Backgrounds: [Carl Raw](https://unsplash.com/@carltraw), [Diane Picchiottino](https://unsplash.com/@diane_soko), [Buzz Andersen](https://unsplash.com/@ldandersen)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
