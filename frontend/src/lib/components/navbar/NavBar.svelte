@@ -1,5 +1,6 @@
 <script lang="ts">
 	import Resume from '$lib/assets/TorendraRasikResume.pdf';
+	import AvatarSquirtle from '$lib/assets/AvatarSquirtle.jpg';
 
 	import NavLink from './NavLink.svelte';
 	import * as Avatar from '$lib/components/ui/avatar';
@@ -21,7 +22,7 @@
 		>
 			<a href={Resume} target="_blank">
 				<Avatar.Root class="h-[clamp(1.5rem,2vw,2.5rem)] w-[clamp(1.5rem,2vw,2.5rem)]">
-					<Avatar.Image src="https://github.com/shadcn.png" alt="@avatar" class="object-cover" />
+					<Avatar.Image src={AvatarSquirtle} alt="@avatar" class="object-cover" />
 					<Avatar.Fallback>TR</Avatar.Fallback>
 				</Avatar.Root>
 			</a>
